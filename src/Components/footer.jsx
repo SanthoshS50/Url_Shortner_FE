@@ -10,7 +10,7 @@ const Footer = () =>{
   <div className="text-center p-4" style={{backgroundColor: "rgba(0, 0, 0, 0.05)"}}>
     © 2024 Copyright : 
     <br/>
-    <a className="text-reset fw-bold" href="https://github.com/deepakrawat0007/URL-Shortner">Santhosh Srinivasan (URL Shortner)</a>
+    <a className="text-reset fw-bold" href="https://url-shortner-fe-blush.vercel.app">Santhosh Srinivasan (URL Shortner)</a>
   </div>
   {/* <!-- Copyright -->*/}
 </footer>
